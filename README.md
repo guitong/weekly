@@ -1,2 +1,1 @@
-# weekly
-Weely Notes...
+[Issues](https://github.com/guitong/weekly/issues)
